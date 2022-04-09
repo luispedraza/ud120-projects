@@ -1,7 +1,7 @@
 ud120-projects
 ==============
 
-Starter project code for students taking Udacity ud120
+Código del curso ["Intro to Machine Learning"](https://classroom.udacity.com/courses/ud120) en Udacity.
 
 ### Setup
 - Create a virtual environment for Python 3.9 or higher.
